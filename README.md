@@ -1,2 +1,2 @@
 # spring-cloud-gateway
-Spring cloud gateway example
+Spring cloud gateway example.
